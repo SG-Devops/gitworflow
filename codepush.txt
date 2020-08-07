@@ -12,6 +12,8 @@ Code pushed to release branch
 
 Code Testing for Feature A, Bug Found!!
 
+Resolving bug in release bugfix branch
+
 
 
 
