@@ -14,6 +14,8 @@ Code Testing for Feature A, Bug Found!!
 
 Resolving bug in release bugfix branch
 
+Code is ready to push in PROD
+
 
 
 
