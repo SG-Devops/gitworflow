@@ -4,4 +4,8 @@ Adding Feature A to develop branch
 
 Code reveiw for Feature A, Bug Found!!
 
+Resolving bug in bugfix branch
+
+
+
 
